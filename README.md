@@ -1,0 +1,1 @@
+In this practice repository, I will explore interprocess communication within Python. My goal is to learn about IPC methods on the same machine, concentrating on those I'm not familiar with, such as signals and MMaps.
