@@ -1,4 +1,4 @@
-# Just getting familiar with signals first. We're generating ourselves here
+# Just getting familiar with signals first. We'll receive one from shell.
 import signal
 import os
 import time
